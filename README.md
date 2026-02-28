@@ -1,4 +1,4 @@
-# 8-2-Journal-Portfolio-Submission
+# CS-230 8-2-Journal-Portfolio-Submission
 Submit the completed software design document that you created for your client, The Gaming Room. + README!
 
 - Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
